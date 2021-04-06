@@ -1,2 +1,8 @@
 title: UH Ratings
+description:
+google_analytics:
+show_downloads: false
 theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
