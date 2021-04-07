@@ -250,7 +250,7 @@ UH Ratings is meant to illustrate the use of Meteor for developing an initial pr
 UH Ratings uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/uh-ratings/uh-ratings/actions](https://github.com/uh-ratings/uh-ratings/actions).
 
 The workflow definition file is quite simple and is located at
-[.github/workflows/ci.yml](https://github.com/bowfolios/bowfolios/blob/master/.github/workflows/ci.yml).
+[.github/workflows/ci.yml](https://github.com/uh-ratings/uh-ratings/blob/master/.github/workflows/ci.yml).
 
 ## Development History
 
