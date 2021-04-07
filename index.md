@@ -282,7 +282,7 @@ Milestone 2 was managed using [UH Ratings GitHub Project Board M2](https://githu
 
 ![](images/project-board-2.png)
 
-## Milestone 3: Final touches
+### Milestone 3: Final touches
 
 The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
 
