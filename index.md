@@ -60,7 +60,7 @@ image will be added
 
 Once you are logged in, you can provide the review to the professor you want to rate.
 
-image will be added
+<img src="doc/professor.png">
 
 ### Community event page
 
