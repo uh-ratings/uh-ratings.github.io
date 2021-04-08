@@ -30,14 +30,14 @@ This section provides a walkthrough of the UH rating user interface and its capa
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-image will be added
+<img src="doc/landing.png">
 
 
 ### Sign in and sign up
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
 
-image will be added
+<img src="doc/signin.png">
 
 Alternatively, you can select "Sign up" to go to the following page and register as a new user:
 
@@ -47,7 +47,7 @@ image will be added
 
 After logging in, you are taken to the home page, which presents all the classes you can choose to rate.
 
-image will be added
+<img src="doc/home.png">
 
 ### Course review page
 
