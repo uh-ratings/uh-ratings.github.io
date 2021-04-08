@@ -58,6 +58,12 @@ image will be added
 
 ### Professor review page
 
+Once you are logged in, you can see the review to all professors.
+
+<img src="doc/list-pro.png">
+
+### Add Professor review
+
 Once you are logged in, you can provide the review to the professor you want to rate.
 
 <img src="doc/professor.png">
@@ -72,7 +78,7 @@ image will be added
 
 after admin logged in, can manage and maintain the website.
 
-image will be added
+<img src="doc/admin.png">
 
 ## Community Feedback
 
