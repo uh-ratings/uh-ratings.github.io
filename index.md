@@ -20,7 +20,7 @@ _**The solution**_: A class review platform that allows UH students to review an
 
 ## Deployment
 
-A live deployment of UH rating is available at [https://uh-ratings.org](https://uh-ratings.org).
+A live deployment of UH rating is available at [https://uh-ratings.org](http://104.236.18.167/#/).
 
 ## User Guide
 
@@ -41,7 +41,7 @@ Click on the "Login" button in the upper right corner of the navbar, then select
 
 Alternatively, you can select "Sign up" to go to the following page and register as a new user:
 
-image will be added
+<img src="doc/register.png">
 
 ### User Home page
 
@@ -51,34 +51,35 @@ After logging in, you are taken to the home page, which presents all the classes
 
 ### Course review page
 
-Once you are logged in, you can provide the review to the course you want to rate.
+Once you are logged in, you can see a list of courses and provide the review to the course you want to rate.
 
-image will be added
+<img src="doc/list-course.png">
+<img src="doc/courseReview.png">
 
 
 ### Professor review page
 
 Once you are logged in, you can see the review to all professors.
 
-<img src="doc/list-pro.png">
+<img src="doc/list-professor.png">
 
 ### Add Professor review
 
 Once you are logged in, you can provide the review to the professor you want to rate.
 
-<img src="doc/professor.png">
+<img src="doc/professorReview.png">
 
 ### Community event page
 
 with or without logged in, you can see the events posted by any user.
 
-image will be added
+<img src="doc/event.png">
 
 ### Admin page
 
 after admin logged in, can manage and maintain the website.
 
-<img src="doc/admin.png">
+<img src="doc/admin-page.png">
 
 ## Community Feedback
 
