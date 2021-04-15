@@ -279,7 +279,7 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 
 Milestone 1 was managed using [UH Ratings GitHub Project Board M1](https://github.com/uh-ratings/uh-ratings/projects/1):
 
-![](images/project-board-1.png)
+![](doc/M1.png)
 
 ### Milestone 2: Data model development
 
