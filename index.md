@@ -20,7 +20,7 @@ _**The solution**_: A class review platform that allows UH students to review an
 
 ## Deployment
 
-A live deployment of UH rating is available at [https://uh-ratings.org](http://104.236.18.167/#/).
+A live deployment of UH rating is available at [https://uh-ratings.club](https://uh-ratings.club/#/).
 
 ## User Guide
 
