@@ -30,45 +30,45 @@ This section provides a walkthrough of the UH rating user interface and its capa
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-<img src="doc/landing.png">
+<img alt="landing" src="doc/landing.png">
 
 
 ### Sign in and sign up
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
 
-<img src="doc/loggin.png">
+<img alt="loggin" src="doc/loggin.png">
 
 Alternatively, you can select "Sign up" to go to the following page and register as a new user:
 
-<img src="doc/register.png">
+<img alt="register" src="doc/register.png">
 
 ### User Home page
 
 After logging in, you are taken to the home page, which presents all the classes you can choose to rate.
 
-<img src="doc/userhome.png">
+<img alt="home" src="doc/userhome.png">
 
 ### Course review page
 
 Once you are logged in, you can see a list of courses with star rating and click on the name will lead to the course review page where you can provide the review to the course you want to rate.
 
-<img src="doc/list-course.png">
-<img src="doc/courseReview.png">
+<img alt="list-course" src="doc/list-course.png">
+<img alt="courseReview" src="doc/courseReview.png">
 
 
 ### Professor review page
 
 Once you are logged in, you can see a list of professors with star rating and click on the name will lead to the professor review page where you can provide the review to the professor you want to rate.
 
-<img src="doc/list-professor.png">
-<img src="doc/professorReview.png">
+<img alt="list-professor" src="doc/list-professor.png">
+<img alt="professorReview" src="doc/professorReview.png">
 
 ### Community event page
 
 with or without logged in, you can see the events posted by any user.
 
-<img src="doc/event.png">
+<img alt="event" src="doc/event.png">
 
 ### Admin
 
@@ -76,15 +76,15 @@ after admin logged in, can manage and maintain the website.
 
 #### Admin page
 The admin page will show you all the professors and course.
-<img src="doc/admin-page.png">
+<img alt="admin-page" src="doc/admin-page.png">
 
 #### Add course page
 The admin can add the courses into the data base to be reviewed.
-<img src="doc/addcourse.png">
+<img alt="addcourse" src="doc/addcourse.png">
 
 #### Add professor page
 The admin can add the professors into the data base to be reviewed.
-<img src="doc/addprofessor.png">
+<img alt="addprofessor" src="doc/addprofessor.png">
 
 ## Community Feedback
 
