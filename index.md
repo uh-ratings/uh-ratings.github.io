@@ -30,45 +30,45 @@ This section provides a walkthrough of the UH rating user interface and its capa
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-<img alt="landing" src="doc/landing.png">
+<img alt="landing" src="doc1/landing.png">
 
 
 ### Sign in and sign up
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
 
-<img alt="loggin" src="doc/loggin.png">
+<img alt="loggin" src="doc1/loggin.png">
 
 Alternatively, you can select "Sign up" to go to the following page and register as a new user:
 
-<img alt="register" src="doc/register.png">
+<img alt="register" src="doc1/register.png">
 
 ### User Home page
 
 After logging in, you are taken to the home page, which presents all the classes you can choose to rate.
 
-<img alt="home" src="doc/userhome.png">
+<img alt="home" src="doc1/userhome.png">
 
 ### Course review page
 
 Once you are logged in, you can see a list of courses with star rating and click on the name will lead to the course review page where you can provide the review to the course you want to rate.
 
-<img alt="list-course" src="doc/list-course.png">
-<img alt="courseReview" src="doc/courseReview.png">
+<img alt="list-course" src="doc1/list-course.png">
+<img alt="courseReview" src="doc1/courseReview.png">
 
 
 ### Professor review page
 
 Once you are logged in, you can see a list of professors with star rating and click on the name will lead to the professor review page where you can provide the review to the professor you want to rate.
 
-<img alt="list-professor" src="doc/list-professor.png">
-<img alt="professorReview" src="doc/professorReview.png">
+<img alt="list-professor" src="doc1/list-professor.png">
+<img alt="professorReview" src="doc1/professorReview.png">
 
 ### Community event page
 
 with or without logged in, you can see the events posted by any user.
 
-<img alt="event" src="doc/event.png">
+<img alt="event" src="doc1/event.png">
 
 ### Admin
 
@@ -76,15 +76,15 @@ after admin logged in, can manage and maintain the website.
 
 #### Admin page
 The admin page will show you all the professors and course.
-<img alt="admin-page" src="doc/admin-page.png">
+<img alt="admin-page" src="doc1/admin-page.png">
 
 #### Add course page
 The admin can add the courses into the data base to be reviewed.
-<img alt="addcourse" src="doc/addcourse.png">
+<img alt="addcourse" src="doc1/addcourse.png">
 
 #### Add professor page
 The admin can add the professors into the data base to be reviewed.
-<img alt="addprofessor" src="doc/addprofessor.png">
+<img alt="addprofessor" src="doc1/addprofessor.png">
 
 ## Community Feedback
 
@@ -116,7 +116,7 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 
 ### Application Design
 
-UH Ratings is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/). Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in UH Ratings.
+UH Ratings is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/). Please use the videos and doc1umentation at those sites to better acquaint yourself with the basic application design and form processing in UH Ratings.
 
 ## Initialization
 
@@ -226,7 +226,7 @@ $ meteor npm run testcafe-ci
 $
 ```
 
-All the tests pass, but the first test is marked as "unstable". At the time of writing, TestCafe fails the first time it tries to run a test in this mode, but subsequent attempts run normally. To prevent the test run from failing due to this problem with TestCafe, we enable [testcafe quarantine mode](https://devexpress.github.io/testcafe/documentation/guides/basic-guides/run-tests.html#quarantine-mode).
+All the tests pass, but the first test is marked as "unstable". At the time of writing, TestCafe fails the first time it tries to run a test in this mode, but subsequent attempts run normally. To prevent the test run from failing due to this problem with TestCafe, we enable [testcafe quarantine mode](https://devexpress.github.io/testcafe/doc1umentation/guides/basic-guides/run-tests.html#quarantine-mode).
 
 The only impact of quarantine mode should be that the first test is marked as "unstable".
 
@@ -244,7 +244,7 @@ UH Ratings is meant to illustrate the use of Meteor for developing an initial pr
 
 ![ci-badge](https://github.com/uh-ratings/uh-ratings/workflows/ci-bowfolios/badge.svg)
 
-UH Ratings uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/uh-ratings/uh-ratings/actions](https://github.com/uh-ratings/uh-ratings/actions).
+UH Ratings uses [GitHub Actions](https://doc1s.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/uh-ratings/uh-ratings/actions](https://github.com/uh-ratings/uh-ratings/actions).
 
 The workflow definition file is quite simple and is located at
 [.github/workflows/ci.yml](https://github.com/uh-ratings/uh-ratings/.github/workflows/ci.yml).
@@ -261,7 +261,7 @@ The development process for UH Ratings conformed to [Issue Driven Project Manage
 * When a task is complete, its corresponding issue is closed and its corresponding git branch is merged into master.
 * The state (todo, in progress, complete) of each task for a milestone is managed using a GitHub Project Board.
 
-The following sections document the development history of UH Ratings.
+The following sections doc1ument the development history of UH Ratings.
 
 ### Milestone 1: Mockup development
 
@@ -269,7 +269,7 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 
 Milestone 1 was managed using [UH Ratings GitHub Project Board M1](https://github.com/uh-ratings/uh-ratings/projects/1):
 
-![](doc/M1.png)
+![](doc1/M1.png)
 
 ### Milestone 2: Data model development
 
