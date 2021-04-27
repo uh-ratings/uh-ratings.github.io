@@ -113,21 +113,6 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 
 UH Ratings is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/). Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in UH Ratings.
 
-### Data model
-
-As noted above, the UH Ratings data model consists of three "primary" collections (Projects, Profiles, and Interests), as well as three "join" Collections (ProfilesProjects, ProfilesInterests, and ProjectsInterests).  To understand this design choice, consider the situation where you want to specify the projects associated with a Profile.
-
-Design choice #1: Provide a field in Profile collection called "Projects", and fill it with an array of project names. This choice works great when you want to display a Profile and indicate the Projects it's associated with.  But what if you want to go the other direction: display a Project and all of the Profiles associated with it?  Then you have to do a sequential search through all of the Profiles, then do a sequential search through that array field looking for a match.  That's computationally expensive and also just silly.
-
-Design choice #2:  Provide a "join" collection where each document contains two fields: Profile name and Project name. Each entry indicates that there is a relationship between those two entities. Now, to find all the Projects associated with a Profile, just search this collection for all the documents that match the Profile, then extract the Project field. Going the other way is just as easy: to find all the Profiles associated with a Project, just search the collection for all documents matching the Project, then extract the Profile field.
-
-UH Ratings implements Design choice #2 to provide pair-wise relations between all three of its primary collections:
-
-![](images/data-model.png)
-
-The fields in boldface (Email for Profiles, and Name for Projects and Interests) indicate that those fields must have unique values so that they can be used as a primary key for that collection. This constraint is enforced in the schema definition associated with that collection.
-
-
 ## Initialization
 
 The [config](https://github.com/uh-ratings/uh-ratings/tree/main/config) directory is intended to hold settings files.  The repository contains one file: [config/settings.development.json](https://github.com/uh-ratings/uh-ratings/tree/main/config/settings.development.json).
@@ -293,7 +278,7 @@ Milestone 2 was managed using [UH Ratings GitHub Project Board M2](https://githu
 
 The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
 
-Milestone 3 was managed using [UH Ratings GitHub Project Board M3](https://github.com/uh-ratings/uh-ratings/projects/3):
+Milestone 3 was managed using [UH Ratings GitHub Project Board M3](https://github.com/uh-ratings/uh-ratings/projects/4):
 
 ![](images/project-board-3.png)
 
