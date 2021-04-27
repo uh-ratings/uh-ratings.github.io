@@ -51,7 +51,7 @@ After logging in, you are taken to the home page, which presents all the classes
 
 ### Course review page
 
-Once you are logged in, you can see a list of courses and provide the review to the course you want to rate.
+Once you are logged in, you can see a list of courses with star rating and click on the name will lead to the course review page where you can provide the review to the course you want to rate.
 
 <img src="doc/list-course.png">
 <img src="doc/courseReview.png">
@@ -59,14 +59,9 @@ Once you are logged in, you can see a list of courses and provide the review to 
 
 ### Professor review page
 
-Once you are logged in, you can see the review to all professors.
+Once you are logged in, you can see a list of professors with star rating and click on the name will lead to the professor review page where you can provide the review to the professor you want to rate.
 
 <img src="doc/list-professor.png">
-
-### Add Professor review
-
-Once you are logged in, you can provide the review to the professor you want to rate.
-
 <img src="doc/professorReview.png">
 
 ### Community event page
@@ -75,11 +70,21 @@ with or without logged in, you can see the events posted by any user.
 
 <img src="doc/event.png">
 
-### Admin page
+### Admin
 
 after admin logged in, can manage and maintain the website.
 
+#### Admin page
+The admin page will show you all the professors and course.
 <img src="doc/admin-page.png">
+
+#### Add course page
+The admin can add the courses into the data base to be reviewed.
+<img src="doc/addcourse.png">
+
+#### Add professor page
+The admin can add the professors into the data base to be reviewed.
+<img src="doc/addprofessor.png">
 
 ## Community Feedback
 
