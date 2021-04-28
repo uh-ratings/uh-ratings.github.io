@@ -242,7 +242,7 @@ UH Ratings is meant to illustrate the use of Meteor for developing an initial pr
 
 ## Continuous Integration
 
-![ci-badge](https://github.com/uh-ratings/uh-ratings/workflows/ci-bowfolios/badge.svg)
+![ci-badge](https://github.com/uh-ratings/uh-ratings/workflows/ci-uh-ratings/badge.svg)
 
 UH Ratings uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/uh-ratings/uh-ratings/actions](https://github.com/uh-ratings/uh-ratings/actions).
 
@@ -285,7 +285,7 @@ The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
 
 Milestone 3 was managed using [UH Ratings GitHub Project Board M3](https://github.com/uh-ratings/uh-ratings/projects/4):
 
-![](images/project-board-3.png)
+![](doc/M3.png)
 
 As of the time of writing, this screenshot shows that there is an ongoing task (i.e. this writing).
 
