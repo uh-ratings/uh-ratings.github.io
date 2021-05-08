@@ -30,14 +30,14 @@ This section provides a walkthrough of the UH rating user interface and its capa
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-<img alt="landing" src="doc/landing.png">
+<img alt="landing" src="doc/landingpage.png">
 
 
 ### Sign in and sign up
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
 
-<img alt="loggin" src="doc/loggin.png">
+<img alt="loggin" src="doc/sign-in.png">
 
 Alternatively, you can select "Sign up" to go to the following page and register as a new user:
 
@@ -47,13 +47,13 @@ Alternatively, you can select "Sign up" to go to the following page and register
 
 After logging in, you are taken to the home page, which presents all the classes you can choose to rate.
 
-<img alt="home" src="doc/userhome.png">
+<img alt="home" src="doc/userhomepage.png">
 
 ### Course review page
 
 Once you are logged in, you can see a list of courses with star rating and click on the name will lead to the course review page where you can provide the review to the course you want to rate.
 
-<img alt="list-course" src="doc/list-course.png">
+<img alt="list-course" src="doc/list-courses.png">
 <img alt="courseReview" src="doc/courseReview.png">
 
 
@@ -61,7 +61,7 @@ Once you are logged in, you can see a list of courses with star rating and click
 
 Once you are logged in, you can see a list of professors with star rating and click on the name will lead to the professor review page where you can provide the review to the professor you want to rate.
 
-<img alt="list-professor" src="doc/list-professor.png">
+<img alt="list-professor" src="doc/list-professors.png">
 <img alt="professorReview" src="doc/professorReview.png">
 
 ### Community event page
@@ -285,7 +285,7 @@ The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
 
 Milestone 3 was managed using [UH Ratings GitHub Project Board M3](https://github.com/uh-ratings/uh-ratings/projects/4):
 
-![](doc/M3.png)
+![](doc/M3f.png)
 
 As of the time of writing, this screenshot shows that there is an ongoing task (i.e. this writing).
 
