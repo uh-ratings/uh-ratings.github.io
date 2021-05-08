@@ -9,7 +9,7 @@
 * [Developer Guide](#developer-guide)
 * [Continuous Integration](#continuous-integration)
 * [Development History](#development-history)
-* [Walkthrough](#walkthrough-videos) 
+* [Walkthrough](#walkthrough-videos)
 * [Team](#team)
 
 ## Overview
@@ -37,7 +37,7 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
 
-<img alt="loggin" src="doc/sign-in.png">
+![](doc/sign-in.png)
 
 Alternatively, you can select "Sign up" to go to the following page and register as a new user:
 
@@ -317,10 +317,3 @@ There are a number of simple enhancements you can make to the system to become b
 ## Team
 
 UH rating is designed, implemented, and maintained by [UH Rating team](https://github.com/uh-ratings).
-
-
-
-
-
-
-
