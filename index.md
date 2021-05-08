@@ -30,7 +30,7 @@ This section provides a walkthrough of the UH rating user interface and its capa
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-<img alt="landing" src="doc/landingpage.png">
+![](doc/landingpage.png)
 
 
 ### Sign in and sign up
@@ -41,34 +41,34 @@ Click on the "Login" button in the upper right corner of the navbar, then select
 
 Alternatively, you can select "Sign up" to go to the following page and register as a new user:
 
-<img alt="register" src="doc/register.png">
+![](doc/register.png)
 
 ### User Home page
 
 After logging in, you are taken to the home page, which presents all the classes you can choose to rate.
 
-<img alt="home" src="doc/userhomepage.png">
+![](doc/userhomepage.png)
 
 ### Course review page
 
 Once you are logged in, you can see a list of courses with star rating and click on the name will lead to the course review page where you can provide the review to the course you want to rate.
 
-<img alt="list-course" src="doc/list-courses.png">
-<img alt="courseReview" src="doc/courseReview.png">
+![](doc/list-courses.png)
+![](doc/courseReview.png)
 
 
 ### Professor review page
 
 Once you are logged in, you can see a list of professors with star rating and click on the name will lead to the professor review page where you can provide the review to the professor you want to rate.
 
-<img alt="list-professor" src="doc/list-professors.png">
-<img alt="professorReview" src="doc/professorReview.png">
+![](doc/list-professors.png)
+![](doc/professorReview.png)
 
 ### Community event page
 
 with or without logged in, you can see the events posted by any user.
 
-<img alt="event" src="doc/event.png">
+![](doc/event.png)
 
 ### Admin
 
@@ -76,15 +76,15 @@ after admin logged in, can manage and maintain the website.
 
 #### Admin page
 The admin page will show you all the professors and course.
-<img alt="admin-page" src="doc/admin-page.png">
+![](doc/admin-page.png)
 
 #### Add course page
 The admin can add the courses into the data base to be reviewed.
-<img alt="addcourse" src="doc/addcourse.png">
+![](doc/addcourse.png)
 
 #### Add professor page
 The admin can add the professors into the data base to be reviewed.
-<img alt="addprofessor" src="doc/addprofessor.png">
+![](doc/addprofessor.png)
 
 ## Community Feedback
 
