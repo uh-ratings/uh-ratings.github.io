@@ -47,7 +47,7 @@ Alternatively, you can select "Sign up" to go to the following page and register
 
 After logging in, you are taken to the home page, which presents all the classes you can choose to rate.
 
-![](doc/userhomepage.png)
+![](doc/homepage.png)
 
 ### Course review page
 
