@@ -277,7 +277,7 @@ The goal of Milestone 2 was to implement the data model: the underlying set of M
 
 Milestone 2 was managed using [UH Ratings GitHub Project Board M2](https://github.com/uh-ratings/uh-ratings/projects/2):
 
-![](doc/M2.png)
+![](doc/M2f.png)
 
 ### Milestone 3: Final touches
 
