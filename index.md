@@ -88,7 +88,12 @@ The admin can add the professors into the data base to be reviewed.
 
 ## Community Feedback
 
-We are interested in your experience using UH Ratings!  If you would like, please take a couple of minutes to fill out the [UH Ratings Feedback Form](https://forms.gle/U7oYqK24TxA5jQU17). It contains only five short questions and will help us understand how to improve the system.
+We are interested in your experience using UH Ratings!  If you would like, please take a couple of minutes to fill out the [UH Ratings Feedback Form](https://forms.gle/U7oYqK24TxA5jQU17). It contains only five short questions and will help us understand how to improve the system. Following are some feedbacks from the community:
+
+![](doc/feedback1.png)
+![](doc/feedback2.png)
+![](doc/feedback3.png)
+
 
 ## Developer Guide
 
