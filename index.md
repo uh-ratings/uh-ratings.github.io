@@ -94,6 +94,7 @@ We are interested in your experience using UH Ratings!  If you would like, pleas
 ![](doc/feedback2.png)
 ![](doc/feedback3.png)
 
+From the feedback, we learned we can improve the system by dividing professors and courses into different departments which will be easier for users to locate the professors and courses they want to review. And also add more field of courses such as textbook information, the grade user get etc. Different rating icon other than star may make it more fun for users.
 
 ## Developer Guide
 
@@ -252,7 +253,7 @@ UH Ratings is meant to illustrate the use of Meteor for developing an initial pr
 UH Ratings uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/uh-ratings/uh-ratings/actions](https://github.com/uh-ratings/uh-ratings/actions).
 
 The workflow definition file is quite simple and is located at
-[.github/workflows/ci.yml](https://github.com/uh-ratings/uh-ratings/.github/workflows/ci.yml).
+[.github/workflows/ci.yml](https://github.com/uh-ratings/uh-ratings/blob/main/.github/workflows/ci.yml).
 
 ## Development History
 
@@ -321,4 +322,4 @@ There are a number of simple enhancements you can make to the system to become b
 
 ## Team
 
-UH rating is designed, implemented, and maintained by [UH Rating team](https://github.com/uh-ratings).
+UH rating is designed, implemented, and maintained by [UH Rating Organization](https://github.com/uh-ratings).
