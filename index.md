@@ -1,5 +1,3 @@
-# UH Ratings
-
 ## Table of contents
 
 * [Overview](#overview)
