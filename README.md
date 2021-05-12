@@ -1,4 +1,4 @@
 ![ci-badge](https://github.com/uh-ratings/uh-ratings/workflows/ci-uh-ratings/badge.svg)
 
 
-For details, please see http://uh-ratings.github.io.
+This repo contains the documentation for the uh-ratings system. See index.md for the source, or go to https://uh-ratings.github.io.
