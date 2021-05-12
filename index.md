@@ -45,7 +45,7 @@ Alternatively, you can select "Sign up" to go to the following page and register
 
 ### User Home page
 
-After logging in, you are taken to the home page, which presents all the classes you can choose to rate.
+After logging in, you are taken to the home page, which presents the welcome message and guidelines what you can see and do.
 
 ![](doc/homepage.png)
 
@@ -66,7 +66,7 @@ Once you are logged in, you can see a list of professors with star rating and cl
 
 ### Community event page
 
-with or without logged in, you can see the events posted by any user.
+with or without logged in, you can see the events posted by admin.
 
 ![](doc/event.png)
 
@@ -75,15 +75,15 @@ with or without logged in, you can see the events posted by any user.
 after admin logged in, can manage and maintain the website.
 
 #### Admin page
-The admin page will show you all the professors and course.
+The admin page will show you all the professors and courses. And the ability to delete any professors or courses from the database.
 ![](doc/admin-page.png)
 
 #### Add course page
-The admin can add the courses into the data base to be reviewed.
+The admin can add the courses into the database to be reviewed.
 ![](doc/addcourse.png)
 
 #### Add professor page
-The admin can add the professors into the data base to be reviewed.
+The admin can add the professors into the database to be reviewed.
 ![](doc/addprofessor.png)
 
 ## Community Feedback
@@ -250,7 +250,7 @@ UH Ratings is meant to illustrate the use of Meteor for developing an initial pr
 
 ![ci-badge](https://github.com/uh-ratings/uh-ratings/workflows/ci-uh-ratings/badge.svg)
 
-UH Ratings uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/uh-ratings/uh-ratings/actions](https://github.com/uh-ratings/uh-ratings/actions).
+UH Ratings uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the main branch.  You can see the results of all recent "workflows" at [https://github.com/uh-ratings/uh-ratings/actions](https://github.com/uh-ratings/uh-ratings/actions).
 
 The workflow definition file is quite simple and is located at
 [.github/workflows/ci.yml](https://github.com/uh-ratings/uh-ratings/blob/main/.github/workflows/ci.yml).
